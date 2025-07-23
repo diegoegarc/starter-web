@@ -8,7 +8,8 @@
 ## Deployment
 	bla bla bla bla bla
 ## How to Contribute
-	bla bla
+	bla bla --- bla bla bla
+	Pull request fot review
 
 ### Copyright 
 
