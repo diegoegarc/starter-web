@@ -12,6 +12,6 @@
 
 ### Copyright 
 
-	2025 Git.Training
+	2025 Git.Training.00
 	
 	
