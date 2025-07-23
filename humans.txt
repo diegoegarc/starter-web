@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Diego Garcia neto@git.com @netogarciaS
 
 # THANKS
 
