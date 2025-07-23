@@ -4,8 +4,8 @@
 ## Introduction
 	bla bla bla bla 
 ## Purpose 
-
+	bla bla bla bla 
 ## Deployment
-
+	bla bla bla bla bla
 ## How to Contribute
 
