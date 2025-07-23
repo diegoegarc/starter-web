@@ -9,3 +9,9 @@
 	bla bla bla bla bla
 ## How to Contribute
 	bla bla
+
+### Copyright 
+
+	2025 Git.Training
+	
+	
