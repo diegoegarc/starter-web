@@ -1,6 +1,7 @@
 # Starter Web Project
 
 	bla bla bla bla 
+	bla bla bla bla 
 ## Introduction
 	bla bla bla bla 
 ## Purpose 
